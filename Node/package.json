@@ -1,0 +1,25 @@
+{
+  "name": "zomato",
+  "version": "1.0.0",
+  "description": "API for the Assignment No. 7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edureka-intership/assignment-7-shubhamsomwanshi11.git"
+  },
+  "author": "shubhamsomwanshi11",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edureka-intership/assignment-7-shubhamsomwanshi11/issues"
+  },
+  "homepage": "https://github.com/edureka-intership/assignment-7-shubhamsomwanshi11#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2",
+    "router": "^1.3.7"
+  }
+}
